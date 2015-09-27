@@ -43,6 +43,9 @@ COPY backup.sh /sbin/backup
 RUN chmod +x /sbin/backup
 VOLUME /var/backups
 
+#script to execute after install configuration done ....
+COPY after_install.sh /sbin/after_install
+RUN chmod +x /sbin/after_install
 
 #add files and script that need to be use for this container
 #include conf file relate to service/daemon 
