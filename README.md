@@ -29,7 +29,7 @@ when done please execute this command for security and remove the install script
 
 ## More Info
 
-About codiad[codiad.com][1]
+About codiad [codiad.com][1]
 
 To help improve this container [quantumobject/docker-codiad][5]
 
