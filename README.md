@@ -8,7 +8,7 @@ Docker container for [Codiad][3]
 
   - [Docker][2]
 
-To install docker in Ubuntu 14.04 use the commands:
+To install docker in Ubuntu 15.04 use the commands:
 
     $ sudo apt-get update
     $ wget -qO- https://get.docker.com/ | sh
@@ -33,8 +33,11 @@ About codiad [codiad.com][1]
 
 To help improve this container [quantumobject/docker-codiad][5]
 
+For additional info about us and our projects check our site [www.quantumobject.com][6]
+
 [1]:http://codiad.com/
 [2]:https://www.docker.com
 [3]:https://github.com/Codiad/Codiad
 [4]:http://docs.docker.com
 [5]:https://github.com/QuantumObject/docker-codiad
+[6]:http://www.quantumobject.com/
